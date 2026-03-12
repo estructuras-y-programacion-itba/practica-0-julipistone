@@ -46,10 +46,10 @@ Al finalizar su turno, el jugador debe elegir una categoría para registrar su p
 - **Números (1 al 6)**: Se anota la suma de los dados que coincidan con el número elegido (ej: tres dados "4" suman 12 puntos).
 
 ### Bonificaciones y Reglas Especiales
-
-- **Primera Tirada**: Si se forma "E", "F" o "P" en la primera tirada del turno, se suman **5 puntos adicionales**.
-- **Generala Real**: Si se forma "G" en la primera tirada del turno, se suman **30 puntos adicionales** y el juego termina inmediatamente (victoria automática).
-- **Jugada Obligatoria**: Si al finalizar el turno no se tiene ninguna jugada válida disponible, el jugador debe elegir una categoría pendiente y anotar **0 puntos**.
+Primera Tirada: Si se forma "E", "F" o "P" en la primera tirada del turno, se suman 5 puntos adicionales.
+Generala Real: Si se forma "G" en la primera tirada del turno, se suman 30 puntos adicionales y el juego termina inmediatamente (victoria automática).
+Jugada Obligatoria: Si al finalizar el turno no se tiene ninguna jugada válida disponible, el jugador debe elegir una categoría pendiente y anotar 0 puntos.
+ 
 
 ### Fin del Juego
 
